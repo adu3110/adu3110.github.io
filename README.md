@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to my website
 
-You can use the [editor on GitHub](https://github.com/adu3110/adu3110.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+My website https://adu3110.github.io/ 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
